@@ -7,7 +7,7 @@
 }
 
 body{
-	background-image: url(IMG_1794.jpg);
+	background-image: url(IMG_1794.JPG);
 	background-size:cover;
 	background-position: center;
 	font-family: 'Lato', sans-serif;
@@ -30,5 +30,5 @@ hr{
 	border-bottom: 1px solid rgba(0,0,0,0.2)
 }
 img.icon{
-	
+
 }
